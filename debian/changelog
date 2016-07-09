@@ -2,7 +2,7 @@ gimp (2.8.16-2blankon1) tambora; urgency=medium
 
   * New upstream release
 
- -- Syai Mif <syaimif@di.blankon.in>  Sat, 09 Jul 2016 07:56:54 +0700
+ -- Syai Mif <syaimif@localhost>  Sat, 09 Jul 2016 08:24:45 +0700
 
 gimp (2.8.16-2) unstable; urgency=medium
 
@@ -34,14 +34,6 @@ gimp (2.8.14-1.1) experimental; urgency=medium
   * debian/: fix build-dependency against GEGL 0.3.0 (Closes: #790421)
 
  -- Matteo F. Vescovi <mfv@debian.org>  Mon, 28 Sep 2015 14:22:59 +0200
-
-gimp (2.8.14-1+b1blankon1) tambora; urgency=medium
-
-  * Fix debian vug #785661
-    - Enabale install the upstream appstream appdata file
-
- -- Mahyuddin <yudi.al@gmail.com>  Sat, 22 Aug 2015 13:46:47 +0700
-
 
 gimp (2.8.14-1) unstable; urgency=medium
 
