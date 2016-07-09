@@ -1,8 +1,17 @@
-gimp (2.8.16-2blankon1) tambora; urgency=medium
+gimp (2.8.16-2.1blankon1) tambora; urgency=medium
 
   * New upstream release
 
- -- Syai Mif <syaimif@localhost>  Sat, 09 Jul 2016 08:24:45 +0700
+ -- Syai Mif <syaimif@localhost>  Sat, 09 Jul 2016 10:49:59 +0700
+
+gimp (2.8.16-2.1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * debian/patches/: patchset updated
+    - fix_GEGL_FTBFS.patch added (Closes: #829427)
+      Thanks to Michael Natterer (upstream dev) for the hint.
+
+ -- Matteo F. Vescovi <mfv@debian.org>  Mon, 04 Jul 2016 14:26:58 +0200
 
 gimp (2.8.16-2) unstable; urgency=medium
 
